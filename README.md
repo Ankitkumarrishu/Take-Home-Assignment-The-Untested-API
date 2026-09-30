@@ -181,7 +181,6 @@ The project exceeds the assignment's 80% coverage requirement.
 Statements : 92.25%
 Functions  : 93.33%
 Lines      : 91.54%
-Branches   : 77.90%
 ```
 
 ## Author
